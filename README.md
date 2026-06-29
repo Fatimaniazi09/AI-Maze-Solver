@@ -6,6 +6,16 @@ AI Maze Solver is an interactive desktop application built with Python and Tkint
 
 The project was developed to strengthen my understanding of artificial intelligence search techniques, graph traversal, heuristic search, and algorithm visualization through an interactive graphical interface.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-306998?style=for-the-badge">
+<img src="https://img.shields.io/badge/A*-Search-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/BFS-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dijkstra-orange?style=for-the-badge">
+
+</p>
+
 ---
 
 ## Overview
