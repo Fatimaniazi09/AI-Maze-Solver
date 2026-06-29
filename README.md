@@ -103,7 +103,7 @@ A configurable testing environment where users can place the start node, goal no
 
 A* uses heuristic information to efficiently guide the search toward the destination, generally requiring fewer node expansions while maintaining optimality.
 
-![A* Search](screenshots/astar_visualization_results.png)
+![A* Search](screenshots/Astar_visualization_results.png)
 
 ---
 
