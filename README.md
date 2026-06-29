@@ -1,11 +1,5 @@
 # AI Maze Solver
 
-![AI Maze Solver](screenshots/main_interface.png)
-
-AI Maze Solver is an interactive desktop application built with Python and Tkinter that visualizes and compares classical pathfinding algorithms in real time. Users can design custom mazes, experiment with predefined maze templates, place start and goal nodes, and observe how different search algorithms explore the environment before determining the shortest path.
-
-The project was developed to strengthen my understanding of artificial intelligence search techniques, graph traversal, heuristic search, and algorithm visualization through an interactive graphical interface.
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -15,6 +9,12 @@ The project was developed to strengthen my understanding of artificial intellige
 <img src="https://img.shields.io/badge/Dijkstra-orange?style=for-the-badge">
 
 </p>
+
+![AI Maze Solver](screenshots/main_interface.png)
+
+AI Maze Solver is an interactive desktop application built with Python and Tkinter that visualizes and compares classical pathfinding algorithms in real time. Users can design custom mazes, experiment with predefined maze templates, place start and goal nodes, and observe how different search algorithms explore the environment before determining the shortest path.
+
+The project was developed to strengthen my understanding of artificial intelligence search techniques, graph traversal, heuristic search, and algorithm visualization through an interactive graphical interface.
 
 ---
 
